@@ -1,0 +1,258 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-community_art] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/@react-native-community/art/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_async-storage] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-webview] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.62.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/ac5b3cd9a78ce6c0e84b4511f2be9caa/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/0104f8733044c71a3feadc7029cd67f7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/01f26a748dba2a38ffc880d5ce132f90/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/0c55d5c26af88567a238ecedf800ce8b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/d3ba16143a81948634a82132c52b7014/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/485b8a7afd56e91135c1f268ec1363b1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/5dff2583e0329fc0c3fcb7fcf39a5c34/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/e6cd0b4d8b2bd025147a4c856a35e06d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/9154f634c2294a01a0b90c92c7f5734f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/dcb549eb5ba4eedc24a3a83f0c0d0b3c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/c925c8605b0ee8e2a2840d7ccb47e75d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/2e9cceefbc09d379dc6ec105a2278589/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/999eb7582ab638ece071a5ff27d3094e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/1a644710cf6511deae042aa50b1ba91a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/b2993cca5ade134b81599610283626b5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/f67b1573e1c5cecc737c40471f5a3532/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/a98a268ba051fecbae1849a7f768b7ad/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/3b3d830aaa2aa7c4ffd2725de8133e56/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/50ab6c8ecf8a28c05e4e07cbce483bd5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/03c1b1c1cf14d85b31005486738a16d5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/9ff647ad85149be0545c20b3eb8b81a4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/67b3646aa5ae723fb2f920ff0b796357/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/c9d546f02843bbc704ad3debb2da9b8c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/7c343ba6cd1882b604ef97c148601a55/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/396e0ea7147936324b0e33305cc4bee4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/0c163636886ad6849f2dcd331c566841/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/fa11512e1b06f1341284d614a7e94582/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/7b709fcb64c9f75a34c09a8f2c51be67/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/88e55988647d158b5283f7ae1e8341d3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/1a0ebd952cfa055d2a3175c86d1af08a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/2ff86aa190359b3d3bc6517f5907af5a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/9b884c5771d1aedd051bdf0ae4e4c02a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/a5893f8de7f43c36a165d53955c9d108/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/e8cbaaa5195b68cb062e328e06689e7e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/a6d846e97c6c37751c3859a285941b98/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/b953f11a734d8d566b4dc49a41475924/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/585157fa5ef286a55e65492fd7c0b4a5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/0cef3d7f347dc17d5ad8acc22bbe942c/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:2:3-36
+		INJECTED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:2:3-36
+		INJECTED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [:react-native-webview] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.62.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/ac5b3cd9a78ce6c0e84b4511f2be9caa/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.62.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/ac5b3cd9a78ce6c0e84b4511f2be9caa/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/f67b1573e1c5cecc737c40471f5a3532/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/f67b1573e1c5cecc737c40471f5a3532/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/a98a268ba051fecbae1849a7f768b7ad/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/a98a268ba051fecbae1849a7f768b7ad/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/b953f11a734d8d566b4dc49a41475924/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/b953f11a734d8d566b4dc49a41475924/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/0cef3d7f347dc17d5ad8acc22bbe942c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/0cef3d7f347dc17d5ad8acc22bbe942c/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/f67b1573e1c5cecc737c40471f5a3532/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:13:7-38
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:12:7-42
+	android:name
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.nexusauroraplatform.MainActivity
+ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-community_art] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/@react-native-community/art/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_art] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/@react-native-community/art/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webview] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/ac5b3cd9a78ce6c0e84b4511f2be9caa/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/ac5b3cd9a78ce6c0e84b4511f2be9caa/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/0104f8733044c71a3feadc7029cd67f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/0104f8733044c71a3feadc7029cd67f7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/01f26a748dba2a38ffc880d5ce132f90/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/01f26a748dba2a38ffc880d5ce132f90/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/0c55d5c26af88567a238ecedf800ce8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/0c55d5c26af88567a238ecedf800ce8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/d3ba16143a81948634a82132c52b7014/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/d3ba16143a81948634a82132c52b7014/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/485b8a7afd56e91135c1f268ec1363b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/485b8a7afd56e91135c1f268ec1363b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/5dff2583e0329fc0c3fcb7fcf39a5c34/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/5dff2583e0329fc0c3fcb7fcf39a5c34/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/e6cd0b4d8b2bd025147a4c856a35e06d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/e6cd0b4d8b2bd025147a4c856a35e06d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/9154f634c2294a01a0b90c92c7f5734f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/9154f634c2294a01a0b90c92c7f5734f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/dcb549eb5ba4eedc24a3a83f0c0d0b3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/dcb549eb5ba4eedc24a3a83f0c0d0b3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/c925c8605b0ee8e2a2840d7ccb47e75d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/c925c8605b0ee8e2a2840d7ccb47e75d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/2e9cceefbc09d379dc6ec105a2278589/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/2e9cceefbc09d379dc6ec105a2278589/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/999eb7582ab638ece071a5ff27d3094e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/999eb7582ab638ece071a5ff27d3094e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/1a644710cf6511deae042aa50b1ba91a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/1a644710cf6511deae042aa50b1ba91a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/b2993cca5ade134b81599610283626b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/b2993cca5ade134b81599610283626b5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/f67b1573e1c5cecc737c40471f5a3532/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/f67b1573e1c5cecc737c40471f5a3532/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/a98a268ba051fecbae1849a7f768b7ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/a98a268ba051fecbae1849a7f768b7ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/3b3d830aaa2aa7c4ffd2725de8133e56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/3b3d830aaa2aa7c4ffd2725de8133e56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/50ab6c8ecf8a28c05e4e07cbce483bd5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/50ab6c8ecf8a28c05e4e07cbce483bd5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/03c1b1c1cf14d85b31005486738a16d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/03c1b1c1cf14d85b31005486738a16d5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/9ff647ad85149be0545c20b3eb8b81a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/9ff647ad85149be0545c20b3eb8b81a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/67b3646aa5ae723fb2f920ff0b796357/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/67b3646aa5ae723fb2f920ff0b796357/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/c9d546f02843bbc704ad3debb2da9b8c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/c9d546f02843bbc704ad3debb2da9b8c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/7c343ba6cd1882b604ef97c148601a55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/7c343ba6cd1882b604ef97c148601a55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/396e0ea7147936324b0e33305cc4bee4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/396e0ea7147936324b0e33305cc4bee4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/0c163636886ad6849f2dcd331c566841/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/0c163636886ad6849f2dcd331c566841/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/fa11512e1b06f1341284d614a7e94582/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/fa11512e1b06f1341284d614a7e94582/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/7b709fcb64c9f75a34c09a8f2c51be67/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/7b709fcb64c9f75a34c09a8f2c51be67/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/88e55988647d158b5283f7ae1e8341d3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/88e55988647d158b5283f7ae1e8341d3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/1a0ebd952cfa055d2a3175c86d1af08a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/1a0ebd952cfa055d2a3175c86d1af08a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/2ff86aa190359b3d3bc6517f5907af5a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/2ff86aa190359b3d3bc6517f5907af5a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/9b884c5771d1aedd051bdf0ae4e4c02a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/9b884c5771d1aedd051bdf0ae4e4c02a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/a5893f8de7f43c36a165d53955c9d108/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/a5893f8de7f43c36a165d53955c9d108/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/e8cbaaa5195b68cb062e328e06689e7e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/e8cbaaa5195b68cb062e328e06689e7e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/a6d846e97c6c37751c3859a285941b98/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/a6d846e97c6c37751c3859a285941b98/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/b953f11a734d8d566b4dc49a41475924/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/b953f11a734d8d566b4dc49a41475924/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/585157fa5ef286a55e65492fd7c0b4a5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/585157fa5ef286a55e65492fd7c0b4a5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/0cef3d7f347dc17d5ad8acc22bbe942c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/gstiufli/.gradle/caches/transforms-2/files-2.1/0cef3d7f347dc17d5ad8acc22bbe942c/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/gstiufli/Companies/NexusAurora/na-platform/android/app/src/debug/AndroidManifest.xml:5:22-75
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] /Users/gstiufli/Companies/NexusAurora/na-platform/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
